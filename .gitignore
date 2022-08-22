@@ -1,0 +1,8 @@
+.venv*/
+data/
+
+*.csv
+*.parquet
+*.zip
+*.json
+
